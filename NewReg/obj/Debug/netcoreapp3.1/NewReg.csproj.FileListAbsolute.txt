@@ -1,0 +1,13 @@
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.csprojAssemblyReference.cache
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.csproj.CoreCompileInputs.cache
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.AssemblyInfoInputs.cache
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.AssemblyInfo.cs
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.exe
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.deps.json
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.runtimeconfig.json
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.runtimeconfig.dev.json
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.dll
+C:\Users\aubva\source\repos\NewReg\NewReg\bin\Debug\netcoreapp3.1\NewReg.pdb
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.dll
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.pdb
+C:\Users\aubva\source\repos\NewReg\NewReg\obj\Debug\netcoreapp3.1\NewReg.genruntimeconfig.cache
